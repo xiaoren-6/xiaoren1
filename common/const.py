@@ -12,6 +12,7 @@ QWEN_DASHSCOPE = "dashscope"  # 通义新版sdk和api key
 
 
 GEMINI = "gemini"
+DIFY = "dify"
 ZHIPU_AI = "glm-4"
 MOONSHOT = "moonshot"
 MiniMax = "minimax"
@@ -40,6 +41,7 @@ WHISPER_1 = "whisper-1"
 TTS_1 = "tts-1"
 TTS_1_HD = "tts-1-hd"
 
+
 WEN_XIN = "wenxin"
 WEN_XIN_4 = "wenxin-4"
 
@@ -61,7 +63,7 @@ MODEL_LIST = [
               "moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k",
               QWEN, QWEN_TURBO, QWEN_PLUS, QWEN_MAX,
               MiniMax,
-              LINKAI_35, LINKAI_4_TURBO, LINKAI_4o
+              LINKAI_35, LINKAI_4_TURBO, LINKAI_4o, DIFY
             ]
 
 # channel
